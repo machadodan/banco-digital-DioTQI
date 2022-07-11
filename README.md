@@ -3,8 +3,11 @@ Bootcamp TQI DIO- criando projeto Banco Digital com Java e Orientação a Objeto
 A mentoria realizar pelo leader tech Dio, teve o objetivo implementar um banco digital completo com contas (corrente e poupança).
 - Com as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).
   - Foi explorado conceitos:
+  
    . Abstração - Habilidade de concentrar-se nos aspectos essenciais de um domínio
+
    . Encapsulamento - Criando uma interfaces de facil entendimento.
+- 
    . Polimorfismo - capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. 
   
  
