@@ -11,15 +11,13 @@ A mentoria realizar pelo leader tech Dio, teve o objetivo implementar um banco d
    . Polimorfismo - capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. 
 
 
-@octocat :+1: Implementações adicionais:
+:+1: Implementações adicionais:
 
  ```diff
  - ! Adicionei ao projeto metodo de criação de contas passando: além numero conta e nome: cpf, email, tipoConta 
- ```
- ```diff
+
  - ! Adicionei a classe NumberFormat para imprimir o saldo no formato brasileiro
-  ```
- ```diff
+ 
  - ! Implementei a classe JOptionPane do java para retorno de telas com menu opções e mensagens mais agradavel para usuário.
   ```
    <img src="/src/img/image_01.PNG"> 
