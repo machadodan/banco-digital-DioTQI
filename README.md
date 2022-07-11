@@ -1,6 +1,6 @@
 <h2>Bootcamp TQI DIO- criando projeto Banco Digital com Java e Orientação a Objetos.</h2>
 
-A mentoria realizar pelo leader tech Dio, teve o objetivo implementar um banco digital completo com contas (corrente e poupança).
+A mentoria realizar pelo <b>leader tech Dio Venilton</b>, teve o objetivo implementar um banco digital completo com contas (corrente e poupança).
 - Com as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).
   - Foi explorado conceitos:
   
